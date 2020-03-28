@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Landing.vue renders Loading correctly 1`] = `
+<div
+  class="main"
+>
+  <p
+    class="p1"
+  >
+    
+    A better way
+    <br />
+    
+    to enjoy every day.
+  
+  </p>
+   
+  <p
+    class="p2"
+  >
+    
+    Be the first to know when we lauch.
+  
+  </p>
+   
+  <button
+    class="btn"
+  >
+    
+    Request an invite
+  
+  </button>
+   
+  <my-popup-stub />
+   
+  <my-popup-stub
+    class="successPopup"
+  />
+</div>
+`;

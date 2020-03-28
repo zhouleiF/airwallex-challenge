@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyForm component test renders MyForm correctly 1`] = `
+<div
+  class="form"
+>
+  <form>
+    <input
+      class=""
+      name="name"
+      placeholder="Full name"
+    />
+     
+    <input
+      class=""
+      name="email"
+      placeholder="Email"
+    />
+     
+    <input
+      class=""
+      name="confirmEmail"
+      placeholder="Confirm Email"
+    />
+     
+    <button
+      class="btn"
+      type="submit"
+    >
+      Send
+    </button>
+     
+    <p
+      class="error"
+      style="display: none;"
+    >
+      
+    </p>
+  </form>
+</div>
+`;

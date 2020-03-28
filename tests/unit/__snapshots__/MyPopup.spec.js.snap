@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyPopup component renders correctly 1`] = `
+<div
+  class="popup"
+  style="display: none;"
+>
+  <div
+    class="con"
+  >
+    <div
+      class="title"
+    >
+      this is popup title 
+      <div
+        class="line"
+      />
+    </div>
+     
+    <div
+      class="content"
+    >
+      this is popup content
+    </div>
+     
+    <div
+      class="footer"
+    >
+      this is popup footer
+    </div>
+  </div>
+</div>
+`;
